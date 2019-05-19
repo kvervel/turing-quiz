@@ -1,0 +1,505 @@
+Duplicate names: 
+Black Spinetail 
+Masked Finch 
+White-bellied Seedeater 
+White-breasted Fruit-Dove 
+Black-billed Cuckoo 
+Grey-breasted Woodpecker 
+Long-billed Honeyeater 
+Rufous-tailed Hummingbird 
+Green-backed Honeyeater 
+Grey Flycatcher 
+Black-faced Antbird 
+White-throated Flycatcher 
+White-throated Swallow 
+White-tailed Nuthatch 
+Black-cheeked Woodpecker 
+Yellow-throated Bulbul 
+Grey-capped Flycatcher 
+Black-backed Barbet 
+Dusky Warbler 
+
+Part duplicate names:
+Willipa Flowerpecker 
+Sijian Thornbill 
+Red-chested Emerald 
+Green-breasted Night-Heron 
+Hildaone Duck 
+Cinnamon Greenbul 
+Grey-headed Crage 
+Brown Flamiaga 
+Bied-chssted Hemispingus 
+Turce Seedeater 
+African Owl 
+White-bellied Myzamel 
+Black-headed Kittih 
+Yellow-crowned Mazina 
+White-throated Scrubfololo 
+Lezaled Rosefinch 
+Beruld's Bush Warbler 
+Sula Cisticola 
+Veeart Pewee 
+Southern Shoute-thrat 
+Golden-breasted Bushshrike 
+Haltand's Spinetail 
+Red-chested Sapphiiro 
+New Zealand Shan 
+Golden-backed Bulbul 
+Waringic Bittern 
+White-throated Fryatca 
+Northern Parrot 
+Rufous-tailed Xeoease 
+Olinow Flamey Flycatcher 
+Peruian Piculet 
+Grey Tanager 
+Sulphur-billed Shrike 
+Midalayan Lapwing 
+North Woodswald-Parrot 
+Plain Cockatoo 
+Whopheriage Cisticola 
+White-cheeked Lory 
+Pied Waxbill 
+Eastern Owl 
+Bupulch's Buttonquail 
+White-bearded Murnelet 
+Black-throated Bulback 
+Crested Goldentill 
+Maor-billed Sunbird 
+Black-aned Friarbird 
+Ocrel-tailed Laughingthrush 
+Moustang Kingfisher 
+Yellow-collared Coucal 
+Marage-tailed Duck 
+Red-capped Buzzard 
+Bare-tailed Eagle 
+Western Antbird 
+Archura White-eye 
+Australasian MWoopstar 
+Scaly Platfail 
+Vieram Pitta 
+Asa-breasted Woodpecker 
+Lesser Bayhail 
+Yellow-collared Robin 
+Spillaces Warbler 
+Blackland's Petronia 
+Hemer's Thrush 
+Violet-browed Tody-Flycatcher 
+Tibbean Brushfinch 
+New Zealand Rail 
+Southern Cucardora 
+Maakion's Flycatcher 
+South Island Grosbeak 
+Chilipin's Cisticola 
+Rusty-tailed Barbet 
+Sygmea Imperial-Pigeon 
+Yellow-chested Owlet 
+Dorolie Greenbul 
+Hiller Elaenia 
+Hankadus Thrush 
+Mogunninva Penduline-Tit 
+Chinese Teal 
+Lazupi's Bunting 
+St. Lunglee Manakin 
+Black-rumped Leafbird 
+Spotted Antshrike 
+Black-tailed Yhorot 
+Lesser Very 
+Mierjonian Petrel 
+Super Antillean Pigphit 
+White-winged Oriole 
+Harro Quail-Dove 
+Scarlet-breasted Hounefish 
+Masked Cuckooshrike 
+Brown Rail 
+White-necked Flycatcher 
+Golden-bellied Thicktarige 
+White-headed Swallow 
+Rufous-throated Tyrannulet 
+Great Kingfisher 
+Chimbard's Greenbul 
+Striated Nighitah-Parthrouus 
+Jouiane Bush Warbler 
+Yellow-lored Grosbeak 
+Russet-rumped Sunangel 
+White-necked Warbler 
+Papaick Barbet 
+Crimson Tyrannulet 
+Grey-headed Qauas-Dove 
+Blush-footed Treecreeper 
+Orange-browed Miner 
+Cistan Yellowthroat 
+Gyend Waxbill 
+Hawairan Weaver 
+Sphit-winged Antpitta 
+Black Brushfinch 
+Snowy Buzzard 
+Guiacana Sunbird 
+Peucoring Corella 
+Verpe's Penduline-Tit 
+White-billed Wheatear 
+Aadian Green Laughingthrush 
+Brazilial Guan 
+Purply-throated Antpitta 
+Great Adperil 
+Yellow-eyed Nightjar 
+Dork Prinia 
+Nineska Read Warbler 
+Soroth Dordgen Bunting 
+Saa-treaked Trogon 
+Ruppell's Blackbird 
+Olive-rumped Woodpecker 
+Pilfodsine Wheatear 
+Golden-throated Weaver 
+Eures's Buttonquail 
+Indian Thrush 
+Vied'rian Puffleg 
+Golden-breasted Elmatris 
+Murf Cuckoo 
+Southern White-tood 
+Bearded White-eye 
+Harmy Quail 
+Black-headed Sandpiper 
+TobHon Warbler 
+White-collared Coucal 
+White-throated Tanager 
+Yellow-browed Blue Maul 
+Blue-fronted Omiole 
+Madagascar Rosefinch 
+Pervon Green Parrot 
+Black-breasted Flycatcher 
+Rufous-breasted Warbler 
+Grey-winged Woodpecker 
+Golden-bellied Ecrush 
+Hiatonis White-eye 
+Short-tailed Ibis 
+Short-billed Parrot 
+Halum's Antthrush 
+Pechiatan Gull 
+Rossian Thrush 
+Yellow-cheeked Maskina 
+Cinsor Flycatcher 
+Brown-headed Wren 
+Afican Goose 
+White-browed Sliby 
+Srow Lorikeet 
+Necklared Pigeon 
+Olive-crested Petronia 
+Spangled Doro 
+Scarlet-rumped Lark 
+Grey-rumped Woodswarl 
+Crilees's Antwren 
+Yellow-breasted Antshrike 
+Northern Virecobar 
+Dmark-billed Duck 
+Olive-bellied Woodpecker 
+Slatt-winged Canastero 
+Asiam Flycatcher 
+Jceitor Sparrow 
+Firt-tailed Scops-Owl 
+Median Oystercatcher 
+Yellow-tipped Nightjar 
+Australasian Cisticola 
+Green Gnateater 
+Black-billed Pourtain Finch 
+Common Stide 
+Yellow-tailed Illabdd Guil 
+Streak-cheeked Sunbird 
+Vierada Bushshrike 
+Crested Pewee 
+Penrus Sparrow 
+White-eared Towher 
+Common Bronzenturin 
+Mountain Crested-Tyama 
+Bard-hinged Parrot 
+St. Linca Waxbill 
+Vinolio Tanager 
+Kifruchine Robin 
+Blue-capped Drongo 
+California Falcon 
+Corene's Storm-Petrel 
+Elagous Blue-Flycatcher 
+Grey-cheeked Tern 
+Brown Lozzuren 
+Chirbing Bunting 
+Mingoling Honeyguide 
+Plain-banded Redstart 
+Black-backed Starmater 
+Sooty-throated Spinetail 
+Tondan Pygmy-Tyrant 
+Southern Storelia 
+Lesser Sholkeer 
+Golden-bleaked Trogon 
+Mouta Miner 
+Red-eyed Thrush 
+Black-necked Flowerpecker 
+Black-bellied Nigulaher 
+Chersin's Laughingthrush 
+Lesser Lang' Elaenia 
+Blue-headed Cacique 
+Collared Boobook 
+Shillan's Parakeet 
+Large's Pigeon 
+Grey Minivet 
+Lozuian Drongo 
+New Zahaland Tanager 
+Pink-billed Boubou 
+Chestnut-backed Woodpecker 
+Striawed Scrubfowl 
+Greater Spearwlet 
+Yellow-collared Babbler 
+Chaffen's Parrotbill 
+Pale Fagby-Fnych 
+Eastern Althatta 
+Least White-eye 
+Chestnut-headed Antpitta 
+White-winged Ibis 
+Pied Mureca 
+Streak-breasted Grownemaid-Pglgess 
+Yellow Whistling 
+Eurasian Metalquin 
+Blue-winged Barbet 
+Eordgan's Hawk 
+Green Bercat 
+FWestam Quail-thrush 
+Black-shouldered Swallow 
+Black-and-white Sparrowhwing 
+Blue Grouse-Warbler 
+Pied Thornbill 
+Somali Parusheet 
+Chestnut-rumped Screech-Owl 
+Peruian Kite 
+Costano White-eye 
+Chestnut-capped Cuckooshrike 
+Bure-necked Cuckoo-Dove 
+Austral Srinia 
+Banded Finch 
+Common Rock-Tanager 
+Black-winged Cuckoo 
+Stroaked Fantail 
+Rufous-throated Hummingbird 
+Asian Finchbill 
+Dian Meed Warbler 
+Dusky Gnatwate 
+Blue-bellied White-eye 
+Yellow-breasted Manakin 
+Silver's Lory 
+Cormon Pigeon 
+Grey-beaded Tit 
+Madagascar Dazrid-Parfon 
+Crownid Tanager 
+Red-billed Wren 
+Tamperou's Brilliant 
+Lesser Spoth-Spirded 
+Vitior Sparrow 
+Warbled Wren 
+Grey-breasted Antpitta 
+Amafron Antbird 
+Aubbes's Lark 
+Orange-eared Thrush 
+Red-headed Lapwing 
+Red Woodwill 
+Rufous-breasted Owlet 
+Eurasian Boobook 
+Plaun-throated Tanager 
+Kariwa Bulbul 
+Green Ground-Dove 
+Rufous-capped Barting 
+Unueti Thrush 
+Pin-tailed Pipit 
+Rufous-browed Bush Harrot 
+Green-winged Siskin 
+White-winged Kingfisher 
+Pale-breasted Pipit 
+Rufous-throated Tit-Spencatch 
+Indi Sunbird 
+Red-and-brown Nightjar 
+Siperria Blue Tyrant  
+Sulawesi Reed Warbler 
+Pale-faced Ground-Jane 
+Grey Thrush 
+Ash-breasted Parrot 
+Green Eaculow 
+Brown-headed Piculet 
+Monersan Owlet-nightjar 
+Hill Toucal 
+Vordican Sandpiper 
+Chestnut-collared Woodpecker 
+Lause Woodpecker 
+Spotted Lovebill 
+Bariegen's Tyrannulet 
+Golden-fronted Tody-Flycatcher 
+Tundan Cuckoo-Dove 
+Azare Seedeater 
+Southern Hongol 
+West Bleed Antshrike 
+Abyssinian Rail 
+White-breast Woodpecker 
+White-rumped Jacana 
+White-tailed Potthrrow 
+Greater Tholbird 
+Red-shouddered Lory 
+Ulusy Grans Oriole 
+Red-billed Fruit-Dove 
+Silver-crested Monarch 
+Eregan Parrot 
+Northern Golden Flycatcher 
+Thinecked Woodcreeper 
+Mouse-headed Nightjar 
+Rufous-tailed Thrush 
+Yellow-bellied Chat 
+Vinin-banded Warbler 
+White-winged Bush-Thrush 
+Spotted Swallow 
+Varied Laruseter 
+Cape Houngfinch 
+Grannbellin's Sunbird 
+Nidguna Tanager 
+Bonjihe Warbler 
+Eurolanean Partridge 
+Brown-rumped Hermit 
+Slytyed Bulbul 
+Rusty-rumped Weaver 
+White-throated Spidehath 
+Manpin's Bluetail 
+Short-tiiged Shama 
+Jakimua Bush-Tyrant 
+Solomon Sendsing 
+Blue Laughinghrusher 
+Madagascar Parrot 
+Streaked Honeyguide 
+White-winged Pipit 
+Orange Rosel 
+White-headed Sulket 
+Bushirk Cisticola 
+American Cuttreshrike 
+Rufous-winged Ground-Pigern 
+Red-chinned Lark 
+Iberian Babbler 
+Batrad Blue Flycatcher 
+Crested Jecurebird 
+Great-capped Starling 
+Rihtwred Tern 
+Torle Antshrike 
+Eurasian Stinetallow 
+Ceiroous Scimitar-Babbler 
+Western Long's Hornbill 
+Australian Baye Sandping 
+American Gerypecker 
+Krinted Antbird 
+Tapar Parakeet 
+Black-backed Flowerpecker 
+White-spotted Storm-Petrel 
+Maverita Flycatcher 
+Slaty Crow 
+Green-barred Quail 
+White-throated Huwkyzet 
+Marbled Cuckoo 
+Sao Tome Bubil 
+Rufous-capped Pruik 
+Cormon Red-billed Antbird 
+Orientacle Buttonquail 
+Yellow-flanked Tapaculo 
+Bonunan Firetail 
+Chestnut-bellied Flatbill 
+Masked Murnef Warbler 
+Greater Gultefter 
+Red-throated Beabe 
+Carai Blue Coucal 
+Pale-billed Seedeater 
+Mountain Spinerbill 
+Rufous-throated Blearedgoss 
+Green Cararo 
+Moustan Reed Warbler 
+Aklamb Crow 
+Plack-faced Treecreeper 
+Kearl Howe Rail 
+Bamrumesi's Myna 
+Sharpe's Honeyguide 
+Spotted Sicklebill 
+Black-bellied Honeyguide 
+Collared Quail 
+Grey-breasted Dacting-Kingbird 
+Brown-backed Cuckoo 
+Duzulanan White-eye 
+Median Flatbill 
+
+Unique names:
+Linercople Chrashoper 
+Rowalice Farif 
+Mouthern Grey-throate 
+Mycret-billed Wood-Pow-eye 
+Niquuusii Puthuzule 
+Black-and-bellisand Pincol 
+Marthern Wood-Pigeo 
+Maunida Raiquue 
+Narna Paradise-Kiveo 
+Chystnut Owlet-winglet 
+Black-and-head Sarwing 
+King-rumpecred Geoterbill 
+Visa Spanaming 
+Flainian 
+Black-Ganged Tit-Swallow 
+Aratzell Harnkeet 
+Yedcollared Wood-Pickoo 
+Turquis Courfey 
+Floisson-bellied Parakeete 
+Malascar Eared-Phelorn 
+Solow Golding-Peafow 
+Gravelion 
+Maraon Rogefo WarblingFinch 
+Solay Tzument-Swallow 
+Goadal Harw 
+Coyran Paradise-Knig 
+Beldgbura 
+Canbilla 
+Sambar Bitter 
+Arimalatea 
+Strage-capped Sponechat 
+Grabo 
+Reunscont's Scimmitra 
+Oiembelles Cuiker 
+Mouse-collared Berellove 
+Snoroj Swallow- 
+oluna Collparpi 
+Giany SparrowLand 
+Bonanan Penduille-Thrush 
+Vibeta 
+Nele's Spidehuh 
+Greenisk Whiteter 
+Padagcaso Woodjangminggges 
+Janana Thusharp 
+Runstar's Giole-Dwal 
+Chrested Spandlobill 
+Dorky Elaa 
+Bark-crested Stopewat 
+Green-houded Parjita 
+White-tibted Myzanebird 
+Baamaru Fireftich 
+Cinnamson'ss Phacaialo 
+Red-stroulded eropet 
+Nerute Tit-tail 
+Malausian Swilletard 
+Fule Althuth 
+Phellaobra 
+Kemgon Berrinte Hemidgebird 
+Nigronial Sobiter 
+Fuletan Faine-Grounder 
+Orine's Warbling-Dunch 
+Vime's Crukebird 
+Corenian Yellow-King 
+Leatteld Antripl 
+Grey-and-houl 
+Aupcolo's Conebil 
+Ash-wheseer 
+Vurk-throated Fulwlbird 
+Meronian Kin-Piff 
+Lyar Blacknis 
+Salvamar's Quai 
+minkle Starminglebard 
+Litht Bluethurkey 
+Stepper Nivetail 
+Smalked Kirt 
+Flaine's Tody-Floncarter 
+Yalva Aclattora 
+Jevwnes Berebird 
+Solifan Bleedinghroshe 
