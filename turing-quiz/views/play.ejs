@@ -1,0 +1,76 @@
+<%- include('head') %>
+<%- include('header') %>
+<div class="play mainbox">
+	<div class="topbox">
+		<div class="lefttopbox">
+			<div class="scorebox">
+				<p>
+					score:
+					<% var score = req.cookies.score; %>
+					<%- score %>
+				</p>
+			</div>
+		</div>
+		<div class="righttopbox">
+			<div class="lives">
+				<p>
+					<% 
+						var lives = '';
+						var fullhearts = 3 - hits;
+
+						for (var i = 0; i < 3; i++) {
+							if (fullhearts > 0) {
+								lives += '<i class="fas fa-heart"></i>  ';
+								fullhearts--;
+							} else {
+								lives += '<i class="far fa-heart"></i>  ';
+							}
+						}
+					%>
+					<%- lives %>
+				</p>
+			</div>
+			<!--<div class="info">
+				<a href="#">?</a>
+			</div>-->
+		</div>
+	</div>
+	
+	<div class="middlebox">
+		<div class="middle_col1">
+		    <img src="/images/bird_1.png" alt="a computer generated image which resembles a bird, but looks uncanny">
+		</div>
+		<div class="middle_col2">
+			<div class="top_col2">
+				<div id="timerbar">
+					<div id="timer">
+					</div>
+				</div>
+				<div class="helpertext">
+					<p>Which of these is not a real bird?</p>
+				</div>
+			</div>
+			<div class="bottom_col2">
+				<div id="correct">
+					<h3>CORRECT</h3>
+				</div>
+				<div id="incorrect">
+					<h3>INCORRECT</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="buttonbox">
+		<%	
+			var btns = '';
+
+			for (var i = 0; i < 4; i++) {
+				btns += '<button class="gameBtn" id="btn_' + i.toString(10) + '">' + values[i] + '</button>'
+			}
+		%>
+		<%- btns %>
+	</div>
+	
+</div>
+<%- include('foot') %>

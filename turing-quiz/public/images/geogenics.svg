@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 260 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(0.65,0,0,0.3,0,0)">
+        <rect x="0" y="0" width="400" height="200" style="fill:rgb(1,4,19);"/>
+    </g>
+    <g transform="matrix(1,0,0,0.89585,-16.5157,-55.5032)">
+        <text x="67.748px" y="114.054px" style="font-family:'MavenPro-Regular', 'Maven Pro';font-size:48px;fill:rgb(210,210,207);">g<tspan x="93.428px 118.052px 143.732px 169.412px 194.036px 219.716px 229.604px 251.588px " y="114.054px 114.054px 114.054px 114.054px 114.054px 114.054px 114.054px 114.054px ">eogenics</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,-62.6012,-54.3177)">
+        <g transform="matrix(1,0,0,1,18.2391,0)">
+            <path d="M65,109.504L65.079,98.751C62.808,98.757 50.274,98.283 50.718,88.851C51.476,72.757 62.863,93.499 65.081,97.896M65,86.415C65,86.415 80.707,86.905 79.282,76.583C77.091,60.712 65,86.415 65,86.415Z" style="fill:none;stroke:rgb(210,210,207);stroke-width:2.9px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,18.2391,0)">
+            <path d="M63.898,76.833C63.898,76.833 56.604,75.587 53.26,70.996C51.881,69.104 52.438,62.302 56.402,60.03C57.617,59.333 62.536,62.456 63.898,76.833C64.149,79.479 64.861,85.068 65,89.202C65.184,94.647 65,109.504 65,109.504" style="fill:none;stroke:rgb(210,210,207);stroke-width:2.9px;"/>
+        </g>
+    </g>
+</svg>

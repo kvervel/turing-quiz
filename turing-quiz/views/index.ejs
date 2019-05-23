@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
-</html>
+<%- include('head') %>
+	<%- include('header') %>
+    <div class="index mainbox">
+    <h1>new employee <br> induction programme</h1>
+
+     <form id="formBegin" name="formbegin" method="post" action="/getwelcome">
+    	<button id="btnBegin" type="submit">begin</button>
+    </form>
+  </div>
+<%- include('foot') %>
