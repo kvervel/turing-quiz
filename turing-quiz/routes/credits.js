@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.render('credits');
+  res.render('credits', {crossed_logo: true});
 });
 
 module.exports = router;

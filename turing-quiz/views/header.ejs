@@ -1,7 +1,14 @@
 <div class="header">
 	<div class="logobox">
 		<a href="/">
-			<img src="/images/geogenics_nobackground.svg" alt="a minimalist white line drawing of a plant with three leaves next to the word geogenics">
+			<%
+				if (crossed_logo) { 
+					var logo = "/images/geogenics_nobackground_crossed.svg";
+				} else {
+					var logo = "/images/geogenics_nobackground.svg";
+				}
+			%>
+			<img src=<%= logo %> alt="a minimalist white line drawing of a plant with three leaves next to the word geogenics">
 		</a>
 	</div>
 	<!--The hamburger menu is from: https://codepen.io/erikterwan/pen/EVzeRP-->
@@ -17,7 +24,6 @@
    		<ul id="menu">
    			<a href="/"><li>start again</li></a>
    			<a href="/about"><li>call to action</li></a>
-   			<a href="/about"><li>about</li></a>
    			<a href="/credits"><li>credits</li></a>
    		</ul>
 

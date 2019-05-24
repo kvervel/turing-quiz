@@ -93,7 +93,8 @@ button:hover {
 }
 
 .mainbox {
-	padding: 0% 10%;
+	margin: 0% 7%;
+	padding: 0% 3% 3% 3%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -253,6 +254,25 @@ button:hover {
 .about {
 	display: flex;
 	justify-content: center;
+}
+
+h2.marker {
+	font-family: 'Permanent Marker', cursive;
+	transform: rotate(-2deg);
+}
+
+p.marker {
+	font-family: 'Permanent Marker', cursive; 
+	transform: rotate(1deg);
+}
+
+.red {
+	color: #AE2222;
+}
+
+.aboutbox {
+	margin-bottom: 40px;
+	background-color: #FFFFFF;
 }
 
 /*Credits*/

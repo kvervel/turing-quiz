@@ -49,7 +49,8 @@ router.get('/', function(req, res, next) {
 	res.render('play', {
 		values : values,
 		hits: hits,
-		req: req
+		req: req,
+		crossed_logo: false
   	});
 });
 
