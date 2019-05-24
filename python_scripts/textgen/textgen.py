@@ -1,3 +1,4 @@
+#this file is adapted from https://github.com/minimaxir/textgenrnn
 from textgenrnn import textgenrnn
 
 model_cfg = {
@@ -43,7 +44,7 @@ train_function(
     dim_embeddings=100,
     word_level=model_cfg['word_level'])
 
-gen_file = 'generated_birdnames.txt'
+gen_file = 'generated_birdnames_2.txt'
 textgen.generate_to_file(gen_file, temperature=1.0, prefix=None, n = 500, max_gen_length=300)
 
 

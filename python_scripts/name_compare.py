@@ -73,13 +73,13 @@ textfile = open(f, "w+")
 
 textfile.write("Duplicate names: \r\n")
 for item in isbirdlist:
-	textfile.write("{!s} \r\n".format(item))
+	textfile.write("{!s}\r\n".format(item))
 
 textfile.write("\r\nPart duplicate names:\r\n")
 for item in partbirdlist:
-	textfile.write("{!s} \r\n".format(item))
+	textfile.write("{!s}\r\n".format(item))
 
 textfile.write("\r\nUnique names:\r\n")
 for item in genlist:
-	textfile.write("{!s} \r\n".format(item))
+	textfile.write("{!s}\r\n".format(item))
 
