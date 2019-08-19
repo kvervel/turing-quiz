@@ -1,0 +1,34 @@
+<%- include('head') %>
+<%- include('header') %>
+<div class="intro mainbox">
+	<h2>your score: 
+		<b>
+		<% var score = req.cookies.score; %>
+		<%- score %>
+		</b>
+	</h2>
+	<div class="textbox">
+		<p>Thanks to <u>your</u> efforts, dear employee #4811, we have collected enough data to start the extermination of the bird species</p>
+		<% 
+			var wrongbird_1 = req.cookies.wrongbird_1; 
+			var wrongbird_2 = req.cookies.wrongbird_2;
+			var wrongbird_3 = req.cookies.wrongbird_3;  
+		%>
+		<p>&#8226; <%- wrongbird_1 %></p>
+		<p>&#8226; <%- wrongbird_2 %></p>
+		<p>&#8226; <%- wrongbird_3 %></p>
+
+		<p>to be replaced by artificial species created by us here at <b>geogenics</b>.</p>
+	</div>
+
+	<div class="bottombar">
+		<div class="progressbar hidden"> 
+			<div class="progress hidden" style="width: 100%;"> 
+			</div> 
+		</div>
+		<form id="formGetAbout" name="formgetabout" method="post" action="/getabout">
+				<button id="btnGetAbout" type="submit"><i class="fas fa-arrow-right"></i></button>
+		</form>
+	</div>
+</div>
+<%- include('foot') %>

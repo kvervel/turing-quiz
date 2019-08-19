@@ -7,6 +7,8 @@ $(function() {
 	var panic = false;
 	var superpanic = false;
 	var btnc;
+	//for storing as cookies, if not I would have made an array! To be displayed on the result page
+	
 
 	//to increment number of hits
 	function hit() {
@@ -14,6 +16,7 @@ $(function() {
 		hits = parseInt(hits, 10);
 		hits++;
 		Cookies.set('hits', hits);
+		return hits;
 	}
 
 	//to get new bird names
@@ -58,9 +61,9 @@ $(function() {
 		if (countdown <= 0) {
 			
 			hit();
-
 			newbirds();
 
+			//not entirely sure why this is needed, but gets buggy without it:
 			countdown = 100;
 
 			location.reload(true);
@@ -69,6 +72,8 @@ $(function() {
 	}, 10);
 
     $(".gameBtn").click(function() {
+
+    	var wrongbird_1, wrongbird_2, wrongbird_3;
 		var na = event.target.id.split('_');
 		var notbirdn = Cookies.get('notbirdn')
 
@@ -90,7 +95,20 @@ $(function() {
 		} else {
 			$("#incorrect").css("display", "initial");
 
-			hit();
+			var wrongbird = $(this).html();
+			var hits = hit();
+
+			switch(hits) {
+				case 1:
+					Cookies.set('wrongbird_1', wrongbird);
+					break;
+				case 2:
+					Cookies.set('wrongbird_2', wrongbird);
+					break;
+				case 3:
+					Cookies.set('wrongbird_3', wrongbird);
+					break;
+			}
 
 			btnc = "tomato";
 			$(this).css("background-color", btnc);

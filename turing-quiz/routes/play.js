@@ -31,7 +31,8 @@ router.get('/', function(req, res, next) {
 
 	console.log(hits);
 	if (hits >= 3) {
-		res.redirect('/about');
+		res.cookie("page", "result");
+    	res.redirect('/intro')
 	}
 
 	var n = 0;

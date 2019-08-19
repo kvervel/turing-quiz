@@ -37,6 +37,12 @@ router.post('/getdemo', function(req, res) {
     res.redirect('/intro');
 });
 
+router.post('/getabout', function(req, res) {
+	res.cookie("page", "about");
+    res.redirect('/about');
+});
+
+
 router.post('/playagain', function(req, res) {
 
 	res.cookie("hits", 0);

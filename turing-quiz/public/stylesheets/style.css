@@ -6,6 +6,7 @@ body {
 	margin: 0px;
 	font-family: 'Maven Pro', sans-serif;
 	background-color: #D2D2CF;
+	overflow-x: hidden;
 }
 
 h1 {
@@ -466,7 +467,9 @@ td {
   font-size: 34px;
 }
 
-
+.hidden {
+	visibility: hidden;
+}
 
 /*#formBegin {
 	display: flex;
