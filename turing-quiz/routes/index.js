@@ -8,8 +8,8 @@ router.get('/', function(req, res, next) {
 	res.cookie("score", 0);
 	res.cookie("birdcnt", 0);
 	res.cookie("notbirdcnt", 0);
-	
-	res.render('index');
+
+	res.render('index', {crossed_logo: false});
 });
 
 router.post('/getwelcome', function(req, res) {
