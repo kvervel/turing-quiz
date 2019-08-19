@@ -8,6 +8,28 @@ $(function() {
 	var superpanic = false;
 	var btnc;
 
+	//to increment number of hits
+	function hit() {
+		var hits = Cookies.get('hits');
+		hits = parseInt(hits, 10);
+		hits++;
+		Cookies.set('hits', hits);
+	}
+
+	//to get new bird names
+	function newbirds() {
+		var birdcnt = Cookies.get('birdcnt');
+		birdcnt = parseInt(birdcnt, 10);
+		birdcnt+=3;
+		Cookies.set('birdcnt', birdcnt);
+
+		var notbirdcnt = Cookies.get('notbirdcnt');
+		notbirdcnt = parseInt(notbirdcnt, 10);
+		notbirdcnt++;
+		Cookies.set('notbirdcnt', notbirdcnt);	
+	}
+
+	//run every ten milliseconds seconds
 	var timer = setInterval(function() {
 		cwidth = countdown.toString(10) + "%";
 		$("#timer").css("width", cwidth);
@@ -35,20 +57,11 @@ $(function() {
 		countdown-= 0.1;
 		if (countdown <= 0) {
 			
-			var hits = Cookies.get('hits');
-			hits = parseInt(hits, 10);
-			hits++;
-			Cookies.set('hits', hits);
+			hit();
 
-			var birdcnt = Cookies.get('birdcnt');
-			birdcnt = parseInt(birdcnt, 10);
-			birdcnt+=3;
-			Cookies.set('birdcnt', birdcnt);
+			newbirds();
 
-			var notbirdcnt = Cookies.get('notbirdcnt');
-			notbirdcnt = parseInt(notbirdcnt, 10);
-			notbirdcnt++;
-			Cookies.set('notbirdcnt', notbirdcnt);
+			countdown = 100;
 
 			location.reload(true);
 		}
@@ -59,15 +72,7 @@ $(function() {
 		var na = event.target.id.split('_');
 		var notbirdn = Cookies.get('notbirdn')
 
-		var birdcnt = Cookies.get('birdcnt');
-		birdcnt = parseInt(birdcnt, 10);
-		birdcnt+=3;
-		Cookies.set('birdcnt', birdcnt);
-
-		var notbirdcnt = Cookies.get('notbirdcnt');
-		notbirdcnt = parseInt(notbirdcnt, 10);
-		notbirdcnt++;
-		Cookies.set('notbirdcnt', notbirdcnt);	
+		newbirds();
 
 		if (parseInt(na[1], 10) == notbirdn) {
 			$("#correct").css("display", "initial");
@@ -85,10 +90,7 @@ $(function() {
 		} else {
 			$("#incorrect").css("display", "initial");
 
-			var hits = Cookies.get('hits');
-			hits = parseInt(hits, 10);
-			hits++;
-			Cookies.set('hits', hits);
+			hit();
 
 			btnc = "tomato";
 			$(this).css("background-color", btnc);
@@ -103,17 +105,18 @@ $(function() {
 
 		clearInterval(timer);
 		
-
+		//make clicked button blink
 		setTimeout(function() {
-				$(thisb).css("background-color", "#010413");
+			$(thisb).css("background-color", "#010413");
+			setTimeout(function() {
+				$(thisb).css("background-color", btnc);
 				setTimeout(function() {
-					$(thisb).css("background-color", btnc);
-					setTimeout(function() {
-						$(thisb).css("background-color", "#010413");
-					}, 500);
+					$(thisb).css("background-color", "#010413");
 				}, 500);
 			}, 500);
+		}, 500);
 
+		//hide correct/incorrect
 		setTimeout(function(){
 			$("#correct").css("display", "none");
 			$("#incorrect").css("display", "none");
